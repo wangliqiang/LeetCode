@@ -6,7 +6,7 @@ import utils.ListNode;
 
 /**
  * @Author wangliqiang
- * @Description TODO
+ * @Description 合并两个链表
  * @Date 2018/10/9 10:00
  **/
 public class MergeTwoLists {

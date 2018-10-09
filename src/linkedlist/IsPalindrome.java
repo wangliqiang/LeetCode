@@ -6,7 +6,7 @@ import utils.ListNode;
 
 /**
  * @Author wangliqiang
- * @Description TODO
+ * @Description 回文链表
  * @Date 2018/10/9 10:10
  **/
 public class IsPalindrome {

@@ -6,7 +6,7 @@ import utils.ListNode;
 
 /**
  * @Author wangliqiang
- * @Description TODO
+ * @Description 反转链表
  * @Date 2018/10/8 13:30
  **/
 public class ReverseList {
